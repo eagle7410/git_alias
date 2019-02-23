@@ -7,3 +7,6 @@ alias gc='git commit'
 alias gd='git diff'
 alias go='git checkout '
 " >> ~/.profile
+
+ source ~/.profile
+ 
