@@ -6,7 +6,7 @@ alias gb='git branch '
 alias gc='git commit'
 alias gd='git diff'
 alias gp='git push '
-" >> ~/.profile
+" >>  ~/.bashrc
 
- source ~/.profile
- 
+ source ~/.bashrc
+
