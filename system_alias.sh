@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# examle run bsh git_alias.sh
 echo "
 alias gs='git status '
 alias ga='git add '
@@ -8,5 +9,5 @@ alias gd='git diff'
 alias gp='git push '
 " >>  ~/.bashrc
 
- source ~/.bashrc
+source $HOME/.bashrc
 
