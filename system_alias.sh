@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# examle run bsh git_alias.sh
+# exapmle run `bash git_alias.sh`
 echo "
 alias gs='git status '
 alias ga='git add '
